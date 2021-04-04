@@ -1,6 +1,6 @@
 ## Hey there
 
-> I'm mnewt00, a hobbyist software engineer. I code in various languages which include Java and JavaScript. All my commits are signed with a GPG key, `70F40CC4EAB33A3C`.
+> I'm mnewt00, a hobbyist software engineer. I code in various languages which include Java and JavaScript. All my commits are signed with a GPG key.
 
 ### Stats
 
