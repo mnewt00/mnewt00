@@ -4,7 +4,7 @@
 
 ### Also check out some projects
 
-- [BetterStaffChat](https://link/tba) - The _better_ and free staff chat plugin for Spigot and BungeeCord
+- [BetterStaffChat](https://github.com/AusTechDev/BetterStaffChat) - A lightweight staff chat plugin for BungeeCord and Spigot.
 - [BetterReports](https://github.com/AusTechDev/BetterReports) - A lightweight plugin for Minecraft that utilizes Discord webhooks for player and bug reports.
 
 ### Stats
