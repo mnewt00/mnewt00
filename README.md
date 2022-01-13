@@ -2,6 +2,8 @@
 
 I'm mnewt00, a hobbyist software engineer. All my commits are[^1] be signed with a GPG key. If you need to contact me, shoot me a message on Discord (mnewt00#1419).
 
+> Most[^2] of my repositories are private, so that's why the 'Most Used Languages' are innacurate.
+
 I'm develop in a few languages - notably staticly typed languages but here are the languages I use the most often:
 - Java (and some Kotlin)
   - Minecraft/Spigot Plugins
@@ -36,3 +38,4 @@ I'm develop in a few languages - notably staticly typed languages but here are t
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnewt00&theme=material-palenight&hide_border=true&background=0d1117"></p>
 
 [^1]: Sometimes I don't, sometimes I do.
+[^2]: 37 out of my 41 repositories are private. Yes I have a lot.
