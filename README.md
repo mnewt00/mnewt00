@@ -23,11 +23,10 @@ I'm develop in a few languages - notably staticly typed languages but here are t
 
 - [BetterStaffChat](https://github.com/AusTechDev/BetterStaffChat) - A lightweight staff chat plugin for BungeeCord and Spigot.
 - [BetterReports](https://github.com/AusTechDev/BetterReports) - A lightweight plugin for Minecraft that utilizes Discord webhooks for player and bug reports.
-- [SG Signup](https://sg.mnewt00.com) - Just a signup page I made for some trainings. An example of a React app deployed to Cloudflare Workers.
 
 ### Socials
  - [Discord](https://discord.com/users/458561907822034954) (mnewt00#1419)
- - [Twitter)(https://twitter.com/mnewt00)
+ - [Twitter](https://twitter.com/mnewt00)
 
 ### Statistics
 
@@ -38,4 +37,4 @@ I'm develop in a few languages - notably staticly typed languages but here are t
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnewt00&theme=material-palenight&hide_border=true&background=0d1117"></p>
 
 [^1]: Sometimes I don't, sometimes I do.
-[^2]: 37 out of my 41 repositories are private. Yes I have a lot.
+[^2]: 37 out of my 43 repositories are private. Yes I have a lot.
