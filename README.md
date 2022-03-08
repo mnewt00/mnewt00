@@ -4,7 +4,7 @@ I'm mnewt00, a hobbyist software engineer. All my commits are[^1] be signed with
 
 > Most[^2] of my repositories are private, so that's why the 'Most Used Languages' are inaccurate.
 
-<img style="" src="https://gh-metrics.mnewt00.com/mnewt00?template=classic&base.metadata=0&music=1&lines=1&introduction=1&introduction.title=true&music.provider=spotify&music.mode=recent&music.limit=4&music.played.at=false&music.time.range=medium&music.top.type=tracks&music.user=mnewt00&config.timezone=Australia%2FSydney">
+<img style="" src="https://gh-metrics.mnewt00.com/mnewt00?template=classic&base.metadata=0&music=1&lines=1&introduction=1&introduction.title=true&config.timezone=Australia%2FSydney">
 
 I'm develop in a few languages - notably staticly typed languages but here are the languages I use the most often:
 - Java (and some Kotlin)
