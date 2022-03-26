@@ -6,7 +6,7 @@ I'm mnewt00, a hobbyist software engineer. All my commits are[^1] be signed with
 
 <img style="" src="https://gh-metrics.mnewt00.com/mnewt00?template=classic&base.metadata=0&music=1&lines=1&introduction=1&introduction.title=true&config.timezone=Australia%2FSydney">
 
-I'm develop in a few languages - notably staticly typed languages but here are the languages I use the most often:
+I develop in a few languages - notably staticly typed languages but here are the languages I use the most often:
 - Java (and some Kotlin)
   - Minecraft/Spigot Plugins
   - Web APIs
@@ -18,8 +18,6 @@ I'm develop in a few languages - notably staticly typed languages but here are t
   - WPF & WinForms Applications
 - Python
   - Django & Flask Projects
-
-#### It's a `He/Him`
 
 ### Some of my work
 
